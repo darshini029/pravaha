@@ -1,0 +1,21 @@
+{
+  "name": "PRAVAHA - NER Logistics & Accessibility Platform",
+  "short_name": "PRAVAHA",
+  "description": "Trusted Logistics & Accessibility Intelligence Platform for North Eastern Region",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%230f172a'><rect width='192' height='192' rx='36' fill='%230f172a'/><path d='M96 32L32 64l64 32 64-32-64-32z' fill='%230d9488'/><path d='M32 128l64 32 64-32' stroke='%2338bdf8' stroke-width='12' fill='none' stroke-linecap='round' stroke-linejoin='round'/><path d='M32 96l64 32 64-32' stroke='%2314b8a6' stroke-width='12' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%230f172a'><rect width='512' height='512' rx='96' fill='%230f172a'/><path d='M256 80L80 168l176 88 176-88-176-88z' fill='%230d9488'/><path d='M80 344l176 88 176-88' stroke='%2338bdf8' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/><path d='M80 256l176 88 176-88' stroke='%2314b8a6' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
